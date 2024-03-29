@@ -3,7 +3,7 @@
 
 ## Getting Started With NOAA's Climate Data API
 
-* Download and install [Postman](https://www.getpostman.com/).
+* Download and install [Postman](https://www.getpostman.com/) or any other freebie HTTP API calling tool.
 
 * Acquire a request token from [NOAA's Climate Data Web Service](https://www.ncdc.noaa.gov/cdo-web/webservices/v2#gettingStarted)
 
